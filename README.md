@@ -1,3 +1,5 @@
+![Mowgli logo](https://repository-images.githubusercontent.com/1161002375/53a4bc9b-6627-46eb-9e2b-4615c7b5073e "Mowgli")
+
 # Mowgli Sample Library
 
 Sample library of the Mowgli synth
