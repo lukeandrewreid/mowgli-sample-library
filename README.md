@@ -17,3 +17,4 @@ All patches have been documented here, and will be kept up-to-date: https://docs
 * Bank C - Filter character
 * Bank D - Envelope character
 * Bank E - Unison
+* Bank F - Custom Patches
